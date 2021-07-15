@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ... Comparison is the killer of our Joy
 -->
 
-![counter](https://twitter.com/RonaldoMaina.m.pipedream.net)
+![counter](https://[twitter.com/RonaldoMaina].m.pipedream.net)
 
 
 
