@@ -22,3 +22,6 @@ I am a graduate from Jomo Kenyatta University of Agriculture and Technology. Aft
 
 ## I love coding.
 Programming is a social activity. It is like writing a book that users will find a transformation in and can be read with ease. It is about the structure and the flow of inspiring events and states. The code is more importance than how it works. The code should be readable and enhanced by developers other than its original author. It should have meaninful names. It should provide one way rather than many ways of doing one thing. The code should look like the programming langange was made to solve that problem. It should be simple and direct.
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=AlexMainaMunyua)
+
