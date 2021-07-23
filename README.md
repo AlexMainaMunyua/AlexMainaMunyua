@@ -6,8 +6,8 @@
 - 🤔 I’m looking for help with ... Getting a job
 - 💬 Ask me about ... Flutter/Dart
 - 📫 How to reach me: alexmaina79@gmail.com
-- 😄 Pronouns: ... He/him/his
-- ⚡ Fun fact: ... Comparison is the killer of our Joy
+- 😄 Pronouns: He/him/his
+- ⚡ Fun fact: Comparison is the killer of our Joy
 -->
 
 [<img height="20" src="https://img.shields.io/badge/linkedin-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
