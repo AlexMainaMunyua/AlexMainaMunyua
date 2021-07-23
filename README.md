@@ -16,7 +16,7 @@
 
 
 ### Business Developer manager to Software engineering.
-I am a graduate from Jomo Kenyatta University of Agriculture and Technology. After graduating I was working with a software company as a business developer to create long-term value for the company from customers, markets and relationships. Six months later, I decided to fully focus on my dream of software engineering because I had a passion of computers since I was a kid (12 years old). But the main reason I went for a business career in the first place was that I wanted to learn practically how software business works and the true benefits and struggles of pushing a product/idea to the market.
+I was working with a software company as a business developer to create long-term value for the company from customers, markets and relationships. One year later, I decided to fully focus on my dream of software engineering because I had a passion of computers since I was a kid (12 years old). But the main reason I went for a business career in the first place was that I wanted to learn practically how software business works and the true benefits and struggles of pushing a product/idea to the market.
 
 <!-- ## Flutter and Dart Developer. -->
 
