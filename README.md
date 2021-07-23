@@ -12,6 +12,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ... Comparison is the killer of our Joy
 -->
 
+[<img height="20" src="https://img.shields.io/badge/linkedin-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
+[<img height="20" src="https://img.shields.io/badge/twitter-1DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
+
+[linkedIn]: https://www.linkedin.com/in/alex-maina/
+[twitter]: https://twitter.com/RonaldoMaina
 
 
 ### Business Developer manager to Software engineering.
