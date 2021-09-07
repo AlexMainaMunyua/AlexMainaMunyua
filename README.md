@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on football management system
+<!-- - 🔭 I’m currently working on football management system
 - 🌱 I’m currently learning machine learning with AWS
 - 👯 I’m looking to collaborate on flutter & dart
-- 🤔 I’m looking for help with getting a job
+- 🤔 I’m looking for help with getting a job -->
 - 💬 Ask me about Flutter/Dart
 - 📫 How to reach me: [<img height="20" src="https://img.shields.io/badge/linkedin-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
 [<img height="20" src="https://img.shields.io/badge/twitter-1DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
