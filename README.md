@@ -1,3 +1,5 @@
+<img align="right" src="https://gpvc.arturio.dev/AlexMainaMunyua">
+
 ### Hi there 👋, my name is Alex
 
 
