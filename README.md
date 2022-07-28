@@ -4,12 +4,12 @@
 
 
   ## About Me 
-  - I'm currently working on `my portfolio`
-  - I’m currently learning MEAN.
-  - I’m looking to collaborate on a Flutter Open-Source project.
-  - Ask me anything about flutter and dart.
-  - Changes for the better.
-  - Fun Fact: I really love football.
+  - I'm currently working on `my portfolio`🚀
+  - I’m currently learning MEAN 🌱 
+  - I’m looking to collaborate on a Flutter Open-Source project✌
+  - Ask me anything about flutter and dart 💬 
+  - Changes for the better 😎
+  - Fun Fact: I really 💙 football.
 
 ## Tech Stack 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=61DAFB)
