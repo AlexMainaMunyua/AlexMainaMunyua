@@ -4,6 +4,7 @@
   ## About Me 
   - I am currently learning MEAN.
   - Ask me anything about flutter and dart.
+  - Changes for the better.
   - Fun Fact: I really love football.
 
 ## Tech Stack 
