@@ -6,7 +6,7 @@
   ## About Me 
   - I'm currently working on `my portfolio`🚀
   - I’m currently learning MEAN 🌱 
-  - I’m looking to collaborate on a Flutter Open-Source project✌
+  - I’m looking to collaborate on a Flutter Open-Source project ✌
   - Ask me anything about flutter and dart 💬 
   - Changes for the better 😎
   - Fun Fact: I really 💙 football.
