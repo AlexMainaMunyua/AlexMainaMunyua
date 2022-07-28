@@ -5,7 +5,7 @@
   ## About Me 
   - I am currentyly learning MEAN.
   - Ask me anything and flutter and dart.
-  - Reach me via my email[alexmaina79@gmail.com] for quick response.
+  - Fun Fact: I really love football.
 
 ## Tech Stack 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
