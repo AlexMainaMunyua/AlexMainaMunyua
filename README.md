@@ -3,7 +3,7 @@
 
 
   ## About Me 
-  - I am currentyly learning MEAN.
+  - I am currently learning MEAN.
   - Ask me anything about flutter and dart.
   - Fun Fact: I really love football.
 
