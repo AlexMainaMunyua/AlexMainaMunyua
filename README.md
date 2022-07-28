@@ -4,7 +4,9 @@
 
 
   ## About Me 
-  - I am currently learning MEAN.
+  - I'm currently working on `my portfolio`
+  - I’m currently learning MEAN.
+  - I’m looking to collaborate on a Flutter Open-Source project.
   - Ask me anything about flutter and dart.
   - I want a masters degree in software engineering.
   - Changes for the better.
