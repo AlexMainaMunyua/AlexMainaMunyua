@@ -6,6 +6,7 @@
   ## About Me 
   - I am currently learning MEAN.
   - Ask me anything about flutter and dart.
+  - I want a masters degree in software engineering.
   - Changes for the better.
   - Fun Fact: I really love football.
 
