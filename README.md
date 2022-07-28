@@ -2,8 +2,10 @@
 #### My interests are in Front-End Engineering and I love to create beautiful performant products with delightful user experiences.
 
 
-  ## About Me 👩‍💼
-  
+  ## About Me 
+  - I am currentyly learning MEAN.
+  - Ask me anything and flutter and dart.
+  - Reach me via my email[alexmaina79@gmail.com] for quick response.
 
 ## Tech Stack 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
