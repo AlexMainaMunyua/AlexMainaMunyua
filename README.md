@@ -8,7 +8,6 @@
   - I’m currently learning MEAN.
   - I’m looking to collaborate on a Flutter Open-Source project.
   - Ask me anything about flutter and dart.
-  - I want a masters degree in software engineering.
   - Changes for the better.
   - Fun Fact: I really love football.
 
