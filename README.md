@@ -1,4 +1,3 @@
-<img align="right" src="https://gpvc.arturio.dev/AlexMainaMunyua">
 
 ### <p align="center"> Hi there 👋, my name is Alex </p>
 
