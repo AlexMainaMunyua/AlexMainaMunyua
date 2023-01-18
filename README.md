@@ -1,5 +1,5 @@
 
-### <p align="center"> Hi there 👋, my name is Alex </p>
+### <p align="left"> Hi there 👋, my name is Alex </p>
 
 
   ## About Me 
