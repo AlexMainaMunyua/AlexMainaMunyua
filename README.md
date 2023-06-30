@@ -5,5 +5,5 @@
   ## About Me 
   - I'm currently working at `UPNDO`🚀
   - I’m looking to collaborate on a Flutter Open-Source project ✌
-  - Ask me anything about flutter and dart 💬 
+  - Ask me anything about ASP.Net, flutter, and dart 💬 
   - Changes for the better 😎
