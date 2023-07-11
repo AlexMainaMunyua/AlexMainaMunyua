@@ -11,6 +11,7 @@
  ### My Stack
  - Flutter
  - Dart
+ - SQL
  - Angular
  - Typescript
  - C#
