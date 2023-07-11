@@ -9,14 +9,13 @@
   - Changes for the better 😎
 
  ### My Stack
- - Angular
- - Typescript
- - c#
- - ASP.NET
  - Flutter
  - Dart
+ - Angular
+ - Typescript
+ - C#
+ - ASP.NET
  - Kotlin
  - Swift
  - Java
  - Javascript
-   
