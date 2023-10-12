@@ -11,5 +11,5 @@
  ### My Stack
  - Flutter, Dart, Kotlin, Java, Swift
  - SQL, ASP.NET, C#
- - Angular, Typescript, NodeJS
+ - Angular, Typescript
  - Javascript
