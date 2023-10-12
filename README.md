@@ -9,21 +9,11 @@
   - Changes for the better 😎
 
  ### My Stack
- - Flutter
- - Dart
-<u>
- - SQL
-</u>
- - ASP.NET
- - C#
-   
- - Angular
- - Typescript
- - NodeJS
+ - Flutter, Dart
+ - SQL, ASP.NET, C#
+ - Angular, Typescript, NodeJS
    
  - Kotlin
  - Java
-
  - Swift
-   
  - Javascript
