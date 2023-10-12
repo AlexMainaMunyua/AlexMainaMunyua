@@ -12,10 +12,10 @@
  - Flutter
  - Dart
  - SQL
+ - ASP.NET
  - Angular
  - Typescript
  - C#
- - ASP.NET
  - Kotlin
  - Swift
  - Java
