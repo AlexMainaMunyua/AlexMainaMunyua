@@ -12,4 +12,3 @@
  - Flutter, Dart, Kotlin, Java, Swift
  - SQL, ASP.NET, C#
  - Angular, Typescript
- - Javascript
