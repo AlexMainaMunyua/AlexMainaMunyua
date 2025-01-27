@@ -3,7 +3,6 @@
 
 
   ## About Me 
-  - I'm currently working at `UPNDO`🚀
   - I’m looking forward to collaborating on Open-Source Projects ✌
   - Ask me anything about Technology, Business, and Leadership 💬 
   - Changes for the better 😎
